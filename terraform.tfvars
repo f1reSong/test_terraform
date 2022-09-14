@@ -26,4 +26,3 @@ vpc_tags = {
 }
 
 vpc_name = "my-vpc"
-domain   = "mydomain.example"
